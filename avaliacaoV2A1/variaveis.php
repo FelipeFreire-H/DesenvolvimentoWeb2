@@ -1,10 +1,10 @@
 <?php
 //Aqui inicializo todas as variáveis locais da página "contar.php" (Utilizo essa técnica por clean code, mesmo)
-//---------------------------------------
+//----------------------------------------
 //Utilizado para teste (não solicitado)
 $contadorMasculino = 0;
 $contadorFeminino = 0;
-//---------------------------------------
+//----------------------------------------
 //Variáveis do contador masculino
 $m_segundoGrau = 0;
 $m_tecnico = 0;
